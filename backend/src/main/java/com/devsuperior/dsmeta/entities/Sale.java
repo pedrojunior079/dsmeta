@@ -33,7 +33,7 @@ public class Sale {
 		this.id = id;
 	}
 
-	public String getSelllerName() {
+	public String getSellerName() {
 		return sellerName;
 	}
 
