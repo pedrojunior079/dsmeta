@@ -1,4 +1,4 @@
-export default Sale = {
+export type Sale = {
     id: number; 
     sellerName: string;
     date: string; 
