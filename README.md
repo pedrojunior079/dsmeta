@@ -10,5 +10,5 @@ Projeto desenvolvido na Semana Spring React 10 que ocorre nos dias 5 a 11 de Set
 <li>Heroku para transferencia do backend para o servdor</li> 
 <li>Netlifly para a hospedagem da aplicação</li>
 
-#Autor
+# Autor
 Pedro Arns Junior
